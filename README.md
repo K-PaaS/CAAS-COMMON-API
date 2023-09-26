@@ -1,5 +1,5 @@
-# PAAS-TA-CAAS-COMMON-API
-  PaaS-TA 에서 제공하는 Container 서비스의 DB API 를 제공하는 서비스이다.
+# CAAS-COMMON-API
+  K-PaaS 에서 제공하는 Container 서비스의 DB API 를 제공하는 서비스이다.
 
 ## 개발 환경
 - JDK 8
